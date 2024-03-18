@@ -157,7 +157,7 @@ functions associated with game startup.
 	You may need to create a new "tty.c" module.  If you do, call it
 [OS]tty.c where the [OS] is replaced with the name of the OS you are porting
 to.  This file contains the routines that configure the terminal/console
-for raw I/O, etc.
+ for raw I/O, etc.
 
      3.5	unix.c
 
